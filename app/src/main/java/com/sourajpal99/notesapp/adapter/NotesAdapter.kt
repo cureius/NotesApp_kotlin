@@ -1,16 +1,14 @@
-package com.codingwithme.notesapp.adapter
+package com.sourajpal99.notesapp.adapter
 
 import android.graphics.BitmapFactory
 import android.graphics.Color
-import android.graphics.drawable.GradientDrawable
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.codingwithme.notesapp.R
-import com.codingwithme.notesapp.entities.Notes
+import com.sourajpal99.notesapp.R
+import com.sourajpal99.notesapp.entities.Notes
 import kotlinx.android.synthetic.main.item_rv_notes.view.*
-import java.util.*
 import kotlin.collections.ArrayList
 
 class NotesAdapter() :

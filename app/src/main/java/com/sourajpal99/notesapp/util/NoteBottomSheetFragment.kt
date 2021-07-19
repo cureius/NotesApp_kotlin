@@ -1,4 +1,4 @@
-package com.codingwithme.notesapp.util
+package com.sourajpal99.notesapp.util
 
 import android.app.Dialog
 import android.content.Intent
@@ -8,7 +8,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.coordinatorlayout.widget.CoordinatorLayout
 import androidx.localbroadcastmanager.content.LocalBroadcastManager
-import com.codingwithme.notesapp.R
+import com.sourajpal99.notesapp.R
 import com.google.android.material.bottomsheet.BottomSheetBehavior
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment
 import kotlinx.android.synthetic.main.fragment_notes_bottom_sheet.*

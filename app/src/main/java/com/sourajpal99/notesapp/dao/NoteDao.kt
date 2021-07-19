@@ -1,7 +1,7 @@
-package com.codingwithme.notesapp.dao
+package com.sourajpal99.notesapp.dao
 
 import androidx.room.*
-import com.codingwithme.notesapp.entities.Notes
+import com.sourajpal99.notesapp.entities.Notes
 
 @Dao
 interface NoteDao {
